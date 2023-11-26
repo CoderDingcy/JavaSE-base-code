@@ -1,2 +1,2 @@
-# Java
-Java练习记录
+# Java-base-code
+JavaSE练习记录
