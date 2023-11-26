@@ -1,2 +1,2 @@
 # JavaSE-DS
-JavaSE练习记录
+JavaSE以及数据结构练习记录
