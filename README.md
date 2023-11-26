@@ -1,2 +1,2 @@
-# JavaSE-base-code
+# JavaSE-DS
 JavaSE练习记录
